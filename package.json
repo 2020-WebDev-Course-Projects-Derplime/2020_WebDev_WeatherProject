@@ -1,0 +1,22 @@
+{
+  "name": "2020_webdev_weatherproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Derplime/2020_WebDev_WeatherProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Derplime/2020_WebDev_WeatherProject/issues"
+  },
+  "homepage": "https://github.com/Derplime/2020_WebDev_WeatherProject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
